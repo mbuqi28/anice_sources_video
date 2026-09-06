@@ -1,10 +1,6 @@
     {
       "https://anichin.moe/azure-legacy-episode-01/": [
-        { "name": "Backup OK.ru (Pribadi)", "url": "https://ok.ru/video/123456789" },
-        { "name": "Backup Terabox", "url": "https://terabox.com/s/abcdefghijk" }
-      ],
-      "https://anichin.moe/judul-anime-lain-eps-05/": [
-        { "name": "Server Darurat", "url": "https://ok.ru/video/987654321" }
+        { "name": "Backup", "url": "https://ok.ru/video/16795110673088" }
       ]
     }
     
