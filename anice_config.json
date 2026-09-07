@@ -1,4 +1,4 @@
-{ "blacklist": [ "StreamHide [Ads]", "New Player [Ads]", "Google Drive", "streamsb", "d-tube", "vidhide", "rumble", "turbovip", "hardsub english", "all sub player rumble", "all sub player dood" ],
+{ "blacklist": [ "StreamHide", "Google Drive", "streamsb", "d-tube", "vidhide", "rumble", "turbovip", "hardsub english", "all sub player rumble", "all sub player dood", "portu"],
 "anime_mapping": {
     "Azure Legacy": "https://animexin.dev/the-demon-hunter-chang-yuan-tu/"
   }
