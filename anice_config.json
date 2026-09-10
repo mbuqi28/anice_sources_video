@@ -1,4 +1,15 @@
-{ "blacklist": [ "StreamHide", "Google Drive", "streamsb", "d-tube", "vidhide", "rumble", "turbovip", "hardsub english", "all sub player rumble", "all sub player dood", "portu"],
+{   
+"blacklist": [ "StreamHide", "Google Drive", "streamsb", "d-tube", "vidhide", "rumble", "turbovip", "hardsub english", "all sub player rumble", "all sub player dood", "portu"],
+"whitelist": [ "dailymotion.com", "dai.ly", "ok.ru", "okru", "ruby", "streamruby", "rubyvid", "turbo", "mediafire.com", "terabox", "1024tera", "nephobox", "4funbox"],
+"priority":  {
+              "backup": 100,
+              "mediafire": 99,
+              "dailymotion": 97,
+              "ok.ru": 95, "okru" :95,
+              "ruby": 90, "streamruby": 90,
+              "terabox": 80, "1024tera" : 80
+  },
+    
 "anime_mapping": {
     "Azure Legacy": "https://animexin.dev/the-demon-hunter-chang-yuan-tu/"
   }
