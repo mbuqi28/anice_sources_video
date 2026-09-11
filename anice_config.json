@@ -1,6 +1,6 @@
 {   
 "blacklist": [ "StreamHide", "Google Drive", "streamsb", "d-tube", "vidhide", "rumble", "turbovip", "hardsub english", "all sub player rumble", "all sub player dood", "portu"],
-"whitelist": [ "dailymotion.com", "dai.ly", "ok.ru", "okru", "ruby", "streamruby", "rubyvid", "turbo", "mediafire.com", "terabox", "1024tera", "nephobox", "4funbox"],
+"whitelist": [ "dailymotion.com", "daily", "dailymotion", "ok.ru", "okru", "ruby", "streamruby", "rubyvid", "turbo", "mediafire.com", "terabox", "1024tera", "nephobox", "4funbox"],
 "priority":  {
               "backup": 100,
               "mediafire": 99,
